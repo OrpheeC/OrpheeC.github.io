@@ -3,7 +3,7 @@
 title: Orphée Collin
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Orphée
@@ -27,8 +27,8 @@ role: Postdoc
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Teschniche Universität Wien
+    url: https://www.tuwien.at/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -48,27 +48,27 @@ profiles:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Statistichal mechnics, discrete probabilities
+  - Random field Ising chain
+  - Random interlacements
+  - Bode-Einstein condensation
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Mathematics
+    institution: Université Paris Cité
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2022-09-01
+    date_end: 2025-31-08
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on _Random field Ising chain and two-dimensional random interlacements_. Supervised by Prof. Giambattista Giacomin.
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+  - area: 
+    institution: \'Ecole Normale Supérieure
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2017-09-01
+    date_end: 2022-08-31
     summary: |
       GPA: 4.0/4.0
 
@@ -170,5 +170,6 @@ awards:
 ---
 
 DISCLAIMER : this website is still being built!
-After graduating from the Ecole Normale Supérieure, I did my PhD at LPSM (Paris). I am now a postdoc at Teschniche Universität Wien.
+
+After graduating from the Ecole Normale Supérieure, I did my PhD at LPSM (Université Paris Cité). I am currently a postdoc at Teschniche Universität Wien, in Austria.
 
