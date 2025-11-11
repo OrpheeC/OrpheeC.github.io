@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Orphée Collin
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Orphée
+last_name: Collin
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: 
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Postdoc
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
