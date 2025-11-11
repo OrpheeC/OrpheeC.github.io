@@ -58,7 +58,7 @@ education:
     institution: Université Paris Cité
     icon: ""
     date_start: 2022-09-01
-    date_end: 2025-31-08
+    date_end: 2025-08-31
     summary: |
       Thesis on _Random field Ising chain and two-dimensional random interlacements_. Supervised by Prof. Giambattista Giacomin.
     button:
