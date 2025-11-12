@@ -2,7 +2,7 @@
 title: Infinite disorder renormalization fixed point for the continuum random field
   Ising chain
 authors:
-- Orphée Collin
+- admin
 - Giambattista Giacomin
 - Yueyun Hu
 date: '2024-04-01'
