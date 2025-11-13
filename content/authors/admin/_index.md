@@ -68,7 +68,7 @@ education:
 work:
   - position: Postdoc
     company_name: Teschniche Universität Wien
-    company_url: 'https://tuwien.ac.at/'
+    company_url: 'https://tuwien.at'
     icon: ''
     date_start: 2025-09-01
     date_end: ''
