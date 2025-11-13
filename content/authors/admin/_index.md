@@ -60,7 +60,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
   - area: 
-    institution: 'Ecole Normale Supérieure
+    institution: Ecole Normale Supérieure
     icon: ""
     date_start: 2017-09-01
     date_end: 2022-08-31
